@@ -1,0 +1,77 @@
+{
+  "DINGTALK_SECRET": "",
+  "DINGTALK_ACCESS_TOKEN": "",
+  "FSKEY": "",
+  "SCKEY": "",
+  "SENDKEY": "",
+  "BARK_URL": "",
+  "QMSG_KEY": "",
+  "QMSG_TYPE": "",
+  "TG_BOT_TOKEN": "",
+  "TG_USER_ID": "",
+  "TG_API_HOST": "",
+  "TG_PROXY": "",
+  "COOLPUSHSKEY": "",
+  "COOLPUSHQQ": true,
+  "COOLPUSHWX": true,
+  "COOLPUSHEMAIL": true,
+  "QYWX_KEY": "",
+  "QYWX_CORPID": "",
+  "QYWX_AGENTID": "",
+  "QYWX_CORPSECRET": "",
+  "QYWX_TOUSER": "",
+  "QYWX_MEDIA_ID": "",
+  "PUSHPLUS_TOKEN": "",
+  "PUSHPLUS_TOPIC": "",
+  "MERGE_PUSH": "True",
+
+  "MANUALTASK": [
+    {"name": "同城抽奖", "href": "https://wx.17u.cn/memberlc/mileageshop/luckyWheel?refid=1486690823"},
+  ],
+  "BILIBILI": [
+    {
+      "cookie": "buvid3=xxx; PVID=1; buvid4=xxx",
+      "coin_num": 5,
+      "coin_type": 1
+    }
+  ],
+  "CLOUD189": [
+    {
+      "phone": "123xxx789",
+      "password": "123xxx456"
+    }
+  ],
+  "ALIYUN": [
+    {
+      "refresh_token": "xxx",
+      "reward_now": true
+    }
+  ],
+  "LOGITECHCLUB": [
+    {
+      "cookie": "xxx"
+    }
+  ],
+  "SMZDM": [
+    {
+      "cookie": "device_id=xxx; "
+    }
+  ],
+  "TONGCHENG": [
+    {
+      "memberId": "I0_xxx15f",
+      "deviceId": "dccxxx8cb",
+      "headers": {}
+    }
+  ],
+  "WZYD": [
+    {
+      "data": "reason=onActivityStopped%20com.tencent.gamehelper.ui.main.MainActivity%407376f26&desktop=0&cChannelId=10003898&cClientVersionCode=2021671504&cClientVersionName=6.71.504&cCurrentGameId=20001&cGameId=20001&cGzip=1&cRand=1657027818947&cSystem=android",
+      "roleId": "58xxxx70",
+      "timestamp": "168xxxx396",
+      "sig": "668xxx084",
+      "msdkToken": "S3xxx6Y",
+      "msdkEncodeParam": "B23xxxAFF"
+    }
+  ]
+}
