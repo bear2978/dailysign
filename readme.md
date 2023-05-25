@@ -54,4 +54,4 @@
     * 修复【阿里云盘】签到不领取奖励
   
 ## 支付宝红包
-![](./pic/image_20230525115518.jpg)
+![](https://github.com/bear2978/dailysign/blob/main/image_20230525115518.jpg)
